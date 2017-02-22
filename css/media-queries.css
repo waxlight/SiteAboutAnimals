@@ -1,0 +1,34 @@
+@media only screen and (max-width:1104px) {
+
+	.header {
+		height: 190px;
+	}
+
+}
+@media only screen and (max-width:568px) {
+
+	.header {
+		height: 250px;
+	}
+
+	.content h1 {
+		font-size: 1em;
+	}
+
+	.content h2 {
+		font-size: 0.55em;
+	}
+
+}
+@media only screen and (max-width:409px) {
+
+	.header {
+		height: 310px;
+	}
+
+	.content h1 {
+		font-size: 0.8em;
+	}
+
+	 
+}
